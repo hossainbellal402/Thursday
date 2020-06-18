@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9034" started-at="2020-06-18T11:48:33 EDT" finished-at="2020-06-18T11:48:42 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9034" started-at="2020-06-18T11:48:33 EDT" finished-at="2020-06-18T11:48:42 EDT">
+      <class name="thursdaytry.Thursdaytime">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:thursdaytry.Thursdaytime@397ef2]" name="openBrowser" duration-ms="8902" started-at="2020-06-18T11:48:33 EDT" finished-at="2020-06-18T11:48:42 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+      </class> <!-- thursdaytry.Thursdaytime -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
